@@ -1,4 +1,4 @@
-# minecraft
+# minecraft resource pack 
 minecraft texture pack 
 
 aur goal with this texture pack
